@@ -39,3 +39,6 @@ For this project, the python libraries used were:
 
 ## Resources
 Relevant resources have been uploaded
+
+## Presentation
+Visual Presentation of this project can be found on Tableau Public (https://public.tableau.com/app/profile/isaac.otubanjo/viz/USAGunViolenceAnalysis/Story1?publish=yes)
