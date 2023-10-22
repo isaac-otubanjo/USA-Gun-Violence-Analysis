@@ -1,6 +1,7 @@
 # USA-Gun-Violence-Analysis
 
-![wall-murals-usa-map jpg](https://github.com/isaac-otubanjo/USA-Gun-Violence-Analysis/assets/145198177/c15562cb-608f-45d2-9cd2-7378a669cf06)
+![usa-map-outline-of-the-usa-in-black-on-a-white-background-america-map-vector](https://github.com/isaac-otubanjo/USA-Gun-Violence-Analysis/assets/145198177/077d53d7-68cc-4229-ac34-02f022ed2206)
+
 
 ## Objective
 Personal python project to derive insights on the impact of gun violence in the United States.
