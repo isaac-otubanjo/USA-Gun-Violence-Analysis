@@ -1,6 +1,6 @@
 # USA-Gun-Violence-Analysis
 
-https://img.pixers.pics/pho_wat(s3:700/FO/20/38/65/75/700_FO20386575_8bce0f8dc4f64155d6b559ec1b8e91b1.jpg,700,469,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,419,jpg)/wall-murals-usa-map.jpg.jpg
+![wall-murals-usa-map jpg](https://github.com/isaac-otubanjo/USA-Gun-Violence-Analysis/assets/145198177/c15562cb-608f-45d2-9cd2-7378a669cf06)
 
 ## Objective
 Personal python project to derive insights on the impact of gun violence in the United States.
@@ -15,7 +15,6 @@ Following analysis, the project aims to answer the following key questions:
 -	Are there demographic patterns in the victims and perpetrators of gun violence (age, gender)?
 -	What types of firearms are most involved in incidents?
 -	Is there a relationship between the senate representation and the frequency of incidents?
-![image](https://github.com/isaac-otubanjo/USA-Gun-Violence-Analysis/assets/145198177/fb7bcb97-c988-4f9f-a817-779b7b3349f5)
 
 ## Data
 The dataset comprises of information on the following parameters:
